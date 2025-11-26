@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- <a href="https://brodypen.com">
-    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=brodypen.com&width=800&height=400" alt="SVG Banners"> -->
-  </a> -->
+  <a href="https://syedashar129.github.io/asharweb/">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=syedashar.com&width=800&height=400" alt="SVG Banners">
+  </a>
 </div>
 
 <h2>Hi, I'm Syed! <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="32"/> </h2>
