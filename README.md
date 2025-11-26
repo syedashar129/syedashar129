@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <!-- <a href="https://brodypen.com">
+    <!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=brodypen.com&width=800&height=400" alt="SVG Banners"> -->
+  </a> -->
+</div>
 
-<!--
-**syedashar129/syedashar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi, I'm Syed! <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="32"/> </h2>
 
-Here are some ideas to get you started:
+Hi, I'm Syed. I graduated from The University of Austin with a Masters degree in Computer Science and from The university of Texas at Dallas in Computer Science. I work as a backend software engineer and enjoy learning new things every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+  My <a href="https://www.linkedin.com/in/syed-ashar/">Linked</a>
+  <a href="https://www.linkedin.com/in/brodypen/">
+    <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" width="32" />
+  </a>
+</h2>
+
+Some of my experiences include:
+- 💵 Software Engineer @ JPMorganChase
+- 🏦 Software Engineer Intern @ JPMorganChase
+- 🏆 Have won multiple hackathons!
+- 🧑‍🏫 Tutor @ University of Texas at Dallas
+- 📖 Mentor @ Sugar land Public Library
+<details>
+<summary>
+  Cool! Want to see some more?
+</summary>
