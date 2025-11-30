@@ -6,7 +6,8 @@
 
 <h2>Hi, I'm Syed! <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="32"/> </h2>
 
-🏦 **Software Engineer @ JPMorganChase** | 🎓 *M.S. CS, UT Austin* | *B.S. CS, UT Dallas* | 
+🏦 **Software Engineer @ JPMorganChase** 
+🎓 *M.S. CS, UT Austin* | *B.S. CS, UT Dallas* | 
 
 <h2>
   My <a href="https://www.linkedin.com/in/syed-ashar/">Linked</a>
